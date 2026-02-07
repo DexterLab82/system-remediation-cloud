@@ -1,0 +1,12 @@
+{
+  "EVENT_7000": {
+    "severity": "HIGH",
+    "description": "Service startup failure",
+    "file": "fixes/EVENT_7000.ps1"
+  },
+  "EVENT_41": {
+    "severity": "CRITICAL",
+    "description": "Kernel Power unexpected shutdown",
+    "file": "fixes/EVENT_41.ps1"
+  }
+}
